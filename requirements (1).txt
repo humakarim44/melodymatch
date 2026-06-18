@@ -1,0 +1,9 @@
+pandas
+streamlit
+sqlalchemy
+psycopg2-binary
+scikit-learn
+great_expectations
+prefect
+loguru
+python-dotenv
